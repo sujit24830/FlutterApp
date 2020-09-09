@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97187" started-at="2020-09-08T20:08:37 IST" finished-at="2020-09-08T20:10:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97187" started-at="2020-09-08T20:08:37 IST" finished-at="2020-09-08T20:10:15 IST">
+      <class name="TestClasses.E2ETest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestClasses.E2ETest@4d41cee]" name="setup" is-config="true" duration-ms="36118" started-at="2020-09-08T20:08:38 IST" finished-at="2020-09-08T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="e2ETestFlutter()[pri:1, instance:TestClasses.E2ETest@4d41cee]" name="e2ETestFlutter" duration-ms="48926" started-at="2020-09-08T20:09:14 IST" finished-at="2020-09-08T20:10:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e2ETestFlutter -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestClasses.E2ETest@4d41cee]" name="tearDown" is-config="true" duration-ms="12064" started-at="2020-09-08T20:10:03 IST" finished-at="2020-09-08T20:10:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClasses.E2ETest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
